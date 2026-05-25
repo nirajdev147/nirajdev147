@@ -1,75 +1,50 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVudWExcTczY2c2a3B6cmt1dGF1NmhqdnBudzVwMnc5MDRpcDdqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif" width="300"/>
-</p>
+### Hello there 👋
 
-<h1 align="center">📖 Manga Developer Profile 📖</h1>
-<h3 align="center">“Born to design… forced to fix CSS bugs at 3 AM”</h3>
+#### A UI/UX Designer by day ☼ and a Frontend Developer by night ☾
 
----
-
-## 🧍 Main Character Info
-
-- 👤 Name: Niraj Dev  
-- 🧠 Status: Sleep-deprived UI/UX protagonist  
-- ⚔️ Power Level: Depends on coffee ☕  
-- 💀 Weakness: Centering a div  
-- 🎯 Goal: Survive frontend battles without crying  
+UI/UX Designer • Frontend Developer • Creative Builder<br>
+Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
 
 ---
 
-## 🔥 Special Abilities (a.k.a Skills)
-
-- 🎨 UI/UX Design — “I make things pretty (sometimes)”
-- 💻 Frontend Dev — “It works… until you refresh”
-- 🐍 Python — “Snake language supremacy”
-- 🧩 Problem Solving — “StackOverflow Jutsu”
-- ⚡ Debugging — 90% guessing, 10% confidence
-
----
-
-## 💀 Villains I Fight Daily
-
-- ❌ CSS Not Working Syndrome  
-- ❌ Responsive Design Breaking at 768px  
-- ❌ Client Saying “Just make it pop”  
-- ❌ Figma vs Code mismatch arc  
-- ❌ Undefined is not a function (final boss)
+- ⚙️ I use daily: `.figma`, `.html`, `.css`, `.js`, `.svg`, `.git`
+- 🎨 I design: UI/UX interfaces, design systems, landing pages, mobile apps
+- 💻 I build: responsive websites, frontend components, design-to-code projects
+- 🌍 I'm active in: **UI/UX & Frontend design community**
+- 🚀 Currently working on: **Sewa Connect (UX + Product Design)**
+- 💬 `ping` me about **UI/UX**, **frontend dev**, **design systems**, **branding**, **design thinking**
 
 ---
 
-## 🧪 Power Transformation Arc
+### 💼 Featured Work
 
-- 🧑‍🎓 Beginner Dev → “Hello World Era”
-- 🧑‍💻 Intermediate → “Why is this working?”
-- 🧠 Advanced → “I fear no bug”
-- 💀 Master Level → “Bug is afraid of me”
-
----
-
-## 🚀 Current Side Quests
-
-- 🏗️ Building Sewa Connect (main arc)
-- 🎨 UI case study grind
-- 💻 Turning designs into code (painfully accurate)
-- 📚 Learning Python without crying
+- 🎯 Sewa Connect — Product Design + Development
+- 🎨 UI Case Studies — Modern interface experiments
+- 🌐 Personal Portfolio — https://www.nirajdev.com.np
+- ⚡ Framer Portfolio — https://nirajcv.framer.website
 
 ---
 
-## 🌐 Allies (Support Characters)
+### 🧠 Design Philosophy
+
+> “Good design is invisible. Great design solves problems before users notice them.”
+
+---
+
+### 🛠️ Tech Stack (Design → Code Flow)
+
+`Figma → Framer → HTML → CSS → JavaScript → Git → Deploy`
+
+---
+
+### 🌐 Connect with me
 
 - LinkedIn: https://linkedin.com/in/nirajdev2058  
-- Behance: https://behance.net/niraj-dev  
-- Framer Portfolio: https://nirajcv.framer.website/  
-- Coded Portfolio: https://www.nirajdev.com.np/  
-
----
-
-## ⚡ Final Quote
-
-> “In this world, bugs are temporary… but deadlines are eternal.”
+- Portfolio: https://nirajcv.framer.website  
+- Website: https://www.nirajdev.com.np  
 
 ---
 
 <p align="center">
-  ⚔️ End of Chapter ⚔️
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
