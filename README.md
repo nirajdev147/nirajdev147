@@ -11,15 +11,15 @@ Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
 - 🎨 I design: UI/UX interfaces, design systems, landing pages, mobile apps
 - 💻 I build: responsive websites, frontend components, design-to-code projects
 - 🌍 I'm active in: **UI/UX & Frontend design community**
-- 🚀 Currently working on: **Sewa Connect (UX + Product Design)**
+- 🚀 Currently working on: **Sewa Connect (UI Design)**
 - 💬 `ping` me about **UI/UX**, **frontend dev**, **design systems**, **branding**, **design thinking**
 
 ---
 
 ### 💼 Featured Work
 
-- 🎯 Sewa Connect — Product Design + Development
-- 🎨 UI Case Studies — Modern interface experiments
+- 🎯 Landing Pages  — Design + Development
+- 🎨 UI/UX Case Studies — Modern interface experiments
 - 🌐 Personal Portfolio — https://www.nirajdev.com.np
 - ⚡ Framer Portfolio — https://nirajcv.framer.website
 
@@ -39,7 +39,8 @@ Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
 
 ### 🌐 Connect with me
 
-- LinkedIn: https://linkedin.com/in/nirajdev2058  
+- LinkedIn: https://linkedin.com/in/nirajdev2058 
+- Behance: https://www.behance.net/niraj-dev
 - Portfolio: https://nirajcv.framer.website  
 - Website: https://www.nirajdev.com.np  
 
