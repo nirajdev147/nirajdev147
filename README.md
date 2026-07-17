@@ -7,7 +7,7 @@ Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
 
 ---
 
-- ⚙️ I use daily: `.figma`, `.html`, `.css`, `.js`, `.svg`, `.git`
+- ⚙️ I use daily: `.figma`, `.html`, `.css`, `.python`, `.django`, `.javascript`, `.svg`, `.git`
 - 🎨 I design: UI/UX interfaces, design systems, landing pages, mobile apps
 - 💻 I build: responsive websites, frontend components, design-to-code projects
 - 🌍 I'm active in: **UI/UX & Frontend design community**
