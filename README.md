@@ -1,10 +1,8 @@
 # Hello there 👋
 
-<a href="https://www.linkedin.com/in/nirajdev2085" /><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I'm a **UI/UX Designer** and **Frontend Developer** based in Nepal 🇳🇵, passionate about building clean, intuitive design systems and user experiences that feel effortless.
 
-**UI/UX Designer** by day ☼ and a **Frontend Developer** by night ☾
-UI/UX Designer • Frontend Developer • Creative Builder
-📍 Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
+I enjoy turning ideas into polished interfaces — from wireframe to working code — with a focus on clarity, consistency, and thoughtful interaction design.
 
 ---
 
