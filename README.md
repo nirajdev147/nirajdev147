@@ -32,6 +32,6 @@ UI/UX Designer • Frontend Developer • Creative Builder
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/nirajdev147)
-[![Behance](https://img.shields.io/badge/Behance-blue?style=flat&logo=behance)](https://behance.net)
+<a href="https://www.linkedin.com/in/nirajdev2085" /><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/nirajdev147" /><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.behance.net/niraj-dev" /><img src="https://img.shields.io/badge/-Behance-1769FF?&style=for-the-badge&logo=behance&logoColor=white" /></a>
