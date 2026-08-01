@@ -1,51 +1,37 @@
-### Hello there 👋
+# Hello there 👋
 
-#### A UI/UX Designer by day ☼ and a Frontend Developer by night ☾
+<a href="https://www.linkedin.com/in/nirajdev2085" /><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-UI/UX Designer • Frontend Developer • Creative Builder<br>
-Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
+**UI/UX Designer** by day ☼ and a **Frontend Developer** by night ☾
+UI/UX Designer • Frontend Developer • Creative Builder
+📍 Based in Nepal 🇳🇵 • Focused on clean design systems & user experience
 
 ---
 
-- ⚙️ I use daily: `.figma`, `.html`, `.css`, `.python`, `.django`, `.javascript`, `.svg`, `.git`
-- 🎨 I design: UI/UX interfaces, design systems, landing pages, mobile apps
-- 💻 I build: responsive websites, frontend components, design-to-code projects
-- 🌍 I'm active in: **UI/UX & Frontend design community**
-- 🚀 Currently working on: **Sewa Connect (UI Design)**
-- 💬 `ping` me about **UI/UX**, **frontend dev**, **design systems**, **branding**, **design thinking**
+### 🛠️ Tools I Use
+`Figma` · `Framer` · `Adobe Photoshop` · `VS Code` · `Git`
+
+### 💻 Languages & Tech Stack
+`HTML` · `CSS` · `JavaScript` · `Python` · `Django` · `SVG`
+
+### 🎯 What I Do
+- 🎨 **Design:** UI/UX interfaces, design systems, landing pages, mobile apps
+- 💻 **Build:** responsive websites, frontend components, design-to-code projects
+- 🌍 **Active in:** the UI/UX & Frontend design community
+- 🚀 **Currently working on:** Sewa Connect (UI Design)
+- 💬 **Ping me about:** UI/UX, frontend dev, design systems, branding, design thinking
 
 ---
 
 ### 💼 Featured Work
-
-- 🎯 Landing Pages  — Design + Development
-- 🎨 UI/UX Case Studies — Modern interface experiments
-- 🌐 Personal Portfolio — https://www.nirajdev.com.np
-- ⚡ Framer Portfolio — https://nirajcv.framer.website
-
----
-
-### 🧠 Design Philosophy
-
-> “Good design is invisible. Great design solves problems before users notice them.”
+- 🎯 **Landing Pages** — Design + Development
+- 🎨 **UI/UX Case Studies** — Modern interface experiments
+- 🌐 **Personal Portfolio** — [nirajdev.com.np](https://www.nirajdev.com.np)
+- ⚡ **Framer Portfolio** — [nirajcv.framer.website](https://nirajcv.framer.website)
 
 ---
 
-### 🛠️ Tech Stack (Design → Code Flow)
-
-`Figma → Framer → HTML → CSS → JavaScript → Git → Deploy`
-
----
-
-### 🌐 Connect with me
-
-- LinkedIn: https://linkedin.com/in/nirajdev2058 
-- Behance: https://www.behance.net/niraj-dev
-- Portfolio: https://nirajcv.framer.website  
-- Website: https://www.nirajdev.com.np  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/nirajdev147)
+[![Behance](https://img.shields.io/badge/Behance-blue?style=flat&logo=behance)](https://behance.net)
