@@ -4,8 +4,6 @@ I'm a **UI/UX Designer** and **Frontend Developer** based in Nepal 🇳🇵, pas
 
 I enjoy turning ideas into polished interfaces — from wireframe to working code — with a focus on clarity, consistency, and thoughtful interaction design.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nirajdev147&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
 
 ---
 
